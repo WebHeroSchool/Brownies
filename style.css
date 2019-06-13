@@ -1,5 +1,7 @@
 body {
-    background-image: url("images/background flowers.jp");
+    background-image: url("images/background_flowers.jpg");
+    background-repeat: no-repeat;
+    background-color: transparent;
 }
 
 ul{
