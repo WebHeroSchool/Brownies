@@ -1,7 +1,11 @@
 body {
-    background-image: url("images/background_flowers.jpg");
+    margin: 80px 80px 80px 100px;
+    background-image: url("images/background.jpg");
     background-repeat: no-repeat;
     background-color: transparent;
+}
+hr{
+
 }
 
 ul{
