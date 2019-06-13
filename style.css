@@ -1,5 +1,5 @@
 body {
-    background: burlywood;
+    background-image: url("images/background flowers.jp");
 }
 
 ul{
@@ -7,4 +7,11 @@ ul{
 }
 article{
     width: 40%;
+}
+aside{
+    background: chocolate;
+}
+img{
+    width: 60%;
+    height: 80p%;
 }
