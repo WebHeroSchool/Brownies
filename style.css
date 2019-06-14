@@ -4,6 +4,9 @@ body {
     background-size: cover;
     background-color: transparent;
 }
+adress a {
+    text-decoration: none;
+}
 
 hr{
 
