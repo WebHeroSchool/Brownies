@@ -1,0 +1,31 @@
+body {
+    margin: 80px 80px 80px 100px;
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-color: transparent;
+}
+adress a {
+    text-decoration: none;
+}
+
+hr{
+
+}
+
+ul{
+    font-style: italic;
+}
+article{
+    width: 40%;
+}
+aside{
+    background: chocolate;
+    padding: 10px;
+    width: 200px;
+    float: right;
+}
+img{
+    width: 60%;
+    height: 80%;
+}
+
