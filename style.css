@@ -3,20 +3,32 @@ body {
     background-image: url("images/background.jpg");
     background-size: cover;
     background-color: transparent;
+    border-style: wave;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 adress a {
     text-decoration: none;
 }
 
 hr{
-
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8b4513 inset;
 }
 
 ul{
     font-style: italic;
 }
 article{
-    width: 40%;
+    height: 50%;
 }
 aside{
     background: chocolate;
@@ -24,8 +36,17 @@ aside{
     width: 200px;
     float: right;
 }
-img{
-    width: 60%;
-    height: 80%;
+.img{
+    width: 40px;
+    /*height: 40%;*/
+}
+.ingredients{
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+    border: 3px solid saddlebrown;
+    padding: 15px;
 }
 
