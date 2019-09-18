@@ -1,9 +1,15 @@
 body {
     margin: 80px 80px 80px 100px;
+    padding: 10px;
     background-image: url("images/background.jpg");
     background-size: cover;
     background-color: transparent;
     border-style: wave;
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-family: 'Gayathri', sans-serif;
 }
 main{
     display: flex;
@@ -13,6 +19,7 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height: auto;
 }
 adress a {
     text-decoration: none;
@@ -37,8 +44,8 @@ aside{
     float: right;
 }
 .img{
-    width: 40px;
-    /*height: 40%;*/
+    width: 40em;
+
 }
 .ingredients{
     display: flex;
